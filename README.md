@@ -74,11 +74,7 @@ Two user profiles, so two access levels.
 
 ## API design
 
-> Fill in during Step 1.
-
-| Resource | URL | Method | Success | Errors | Notes |
-|----------|-----|--------|---------|--------|-------|
-|          |     |        |         |        |       |
+The endpoint contract is in [`docs/endpoints.md`](docs/endpoints.md). Implementation follows that file.
 
 ## Design decisions
 
